@@ -7,8 +7,8 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 
 ## 🛠️ Tech I work with
 - PHP / Laravel  
-- MySQL / PostgreSQL  
-- REST APIs & a bit of GraphQL  
+- MySQL / PostgreSQL
+- Linux Lover
 - Docker (when I feel fancy)  
 - Git (yes, I break things and fix them later)
 
@@ -22,15 +22,16 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 ---
 
 ## 🎯 Other stuff
-- Not an open-source celebrity, but I lurk around here  
 - Always down to learn something new  
 - Lowkey into exploring cool dev tools and frameworks
 
 ---
 
 ## 📫 Reach me
-- **Email:** keyvan.akbarzadeh.2001@gmail.com  
-- Or just drop by my repos and say hi  
+- **Email:** keyvan.akbarzadeh.2001@gmail.com
+- **Telegram** https://t.me/keyvaan_MH
+- **Twitter** https://x.com/KeyvanAkbarzade
+- **LinkedIn** https://www.linkedin.com/in/keyvan-akbarzadeh-824526223/
 
 ---
 
