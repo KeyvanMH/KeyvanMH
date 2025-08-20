@@ -10,7 +10,7 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 - MySQL / PostgreSQL
 - Linux Lover
 - Docker (when I feel fancy)  
-- Git (yes, I break things and fix them later)
+- Git (yeah, I break things and fix them later)
 
 ---
 
