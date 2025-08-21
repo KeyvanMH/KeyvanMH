@@ -9,8 +9,8 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 - PHP / Laravel  
 - MySQL / PostgreSQL
 - Linux Lover
-- Docker (when I feel fancy)  
-- Git (yeah, I break things and fix them later)
+- Docker
+- Git
 
 ---
 
