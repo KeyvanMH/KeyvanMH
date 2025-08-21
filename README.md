@@ -8,7 +8,7 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 ## 🛠️ Tech I work with
 - PHP / Laravel  
 - MySQL / PostgreSQL
-- Linux Lover
+- Linux enthusiast 
 - Docker
 - Git
 
