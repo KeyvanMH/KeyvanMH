@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Keyvan  
 
 I’m a backend developer who mainly builds stuff with **Laravel** and related tools.  
-I like keeping things simple, clean, and practical — no unnecessary fluff, just code that works.  
+I like keeping things simple, clean, and practical — no unnecessary engineering.  
 
 ---
 
@@ -17,13 +17,12 @@ I like keeping things simple, clean, and practical — no unnecessary fluff, jus
 ## 🌱 Currently
 - Sharpening my backend skills  
 - Playing around with modern Laravel features  
-- Trying to write code that *future me* won’t hate  
 
 ---
 
 ## 🎯 Other stuff
 - Always down to learn something new  
-- Lowkey into exploring cool dev tools and frameworks
+- into exploring cool dev tools and frameworks
 
 ---
 
