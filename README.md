@@ -8,4 +8,3 @@ trying to harden my hardskills .
 contact:
 - keyvan.akbarzadeh.2001@gmail.com
 - [Telegram](https://t.me/keyvaan_MH)
-- [Email](keyvan.akbarzadeh.2001@gmail.com)
